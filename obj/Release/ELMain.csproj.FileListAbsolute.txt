@@ -1,0 +1,16 @@
+C:\Development\Ceridian\Application\ELMain\bin\Release\ELMain.dll
+C:\Development\Ceridian\Application\ELMain\bin\Release\ELMain.pdb
+C:\Development\Ceridian\Application\ELMain\obj\Release\ELMain.dll
+C:\Development\Ceridian\Application\ELMain\obj\Release\ELMain.pdb
+C:\Development\Ceridian\Application\ELMain\obj\Release\ELMain.csprojResolveAssemblyReference.cache
+C:\Development\DayForce\Application\ELMain\bin\Release\ELMain.dll
+C:\Development\DayForce\Application\ELMain\bin\Release\ELMain.pdb
+C:\Development\DayForce\Application\ELMain\obj\Release\ELMain.dll
+C:\Development\DayForce\Application\ELMain\obj\Release\ELMain.pdb
+C:\Development\DayForce\Application\ELMain\obj\Release\ELMain.csproj.CoreCompileInputs.cache
+C:\Development\DayForce\Application\ELMain\obj\Release\ELMain.csprojAssemblyReference.cache
+C:\Development\2021_Core\MyKars.SubsriptionService\ELMain\bin\Release\ELMain.dll
+C:\Development\2021_Core\MyKars.SubsriptionService\ELMain\bin\Release\ELMain.pdb
+C:\Development\2021_Core\MyKars.SubsriptionService\ELMain\obj\Release\ELMain.csproj.CoreCompileInputs.cache
+C:\Development\2021_Core\MyKars.SubsriptionService\ELMain\obj\Release\ELMain.dll
+C:\Development\2021_Core\MyKars.SubsriptionService\ELMain\obj\Release\ELMain.pdb
